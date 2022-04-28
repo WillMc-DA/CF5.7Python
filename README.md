@@ -41,10 +41,10 @@
 # Folders
 ### Here is the structure of the repository:
 
-**01 Project Management**  # Folder contains the Project Brief.
+**01 Project Management**         # Folder contains the Project Brief.
 
-**03 Scripts**    # Folder contains all scripts used during the project.
+**03 Scripts**                    # Folder contains all scripts used during the project.
 
 **04 Analysis/Visualisations**    # Folder contains all Visualisations created during the project.
 
-**05 Sent to client**    # Folder contains the Final Report sent to the Client.
+**05 Sent to client**             # Folder contains the Final Report sent to the Client.
