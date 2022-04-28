@@ -37,3 +37,14 @@
 ####    e) What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
 
 ####    f) What differences can you find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
+
+# Folders
+### Here is the structure of the repository:
+
+**01 Project Management**  # Folder contains the Project Brief.
+
+**03 Scripts**    # Folder contains all scripts used during the project.
+
+**04 Analysis/Visualisations**    # Folder contains all Visualisations created during the project.
+
+**05 Sent to client**    # Folder contains the Final Report sent to the Client.
